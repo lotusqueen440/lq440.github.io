@@ -2111,12 +2111,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Chosen Sea",
-        "number": 264,
+        "card_name": "Calm-Shores Passage",
+        "number": 262,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "261"
+        "position": "216"
     },
     {
         "card_name": "Cathedral of Damnation",
@@ -2141,6 +2141,46 @@
         "set": "SKL",
         "rotated": false,
         "position": "229"
+    },
+    {
+        "card_name": "Steady-Climb Passage",
+        "number": 269,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Chosen Sea",
+        "number": 264,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "Misthollow Passage",
+        "number": 268,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Infernus Passage",
+        "number": 266,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Cragbrush Passage",
+        "number": 265,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "219"
     },
     {
         "card_name": "Vast Countryside",
@@ -2189,46 +2229,6 @@
         "set": "SKL",
         "rotated": false,
         "position": "221"
-    },
-    {
-        "card_name": "Calm-Shores Passage",
-        "number": 262,
-        "shape": "normal",
-        "set": "SKL",
-        "rotated": false,
-        "position": "216"
-    },
-    {
-        "card_name": "Misthollow Passage",
-        "number": 268,
-        "shape": "normal",
-        "set": "SKL",
-        "rotated": false,
-        "position": "220"
-    },
-    {
-        "card_name": "Infernus Passage",
-        "number": 266,
-        "shape": "normal",
-        "set": "SKL",
-        "rotated": false,
-        "position": "218"
-    },
-    {
-        "card_name": "Cragbrush Passage",
-        "number": 265,
-        "shape": "normal",
-        "set": "SKL",
-        "rotated": false,
-        "position": "219"
-    },
-    {
-        "card_name": "Steady-Climb Passage",
-        "number": 269,
-        "shape": "normal",
-        "set": "SKL",
-        "rotated": false,
-        "position": "217"
     },
     {
         "card_name": "er"

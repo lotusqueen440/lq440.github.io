@@ -1,4 +1,97 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Floe Elemental
+rules_text: Kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, you may discard a card. If you do, draw a card. => Pyre [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, you may discard a card. If you do, draw a card.
+
+Kindleblade Wizard
+rules_text: Kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever this creature attacks, other attacking creatures you control get +1/+0 until end of turn.
+{2}{R}: This creature deals damage to target player equal to its power. => Pyre [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever this creature attacks, other attacking creatures you control get +1/+0 until end of turn.
+{2}{R}: This creature deals damage to target player equal to its power.
+
+Magma Jackal
+rules_text: Kindled, haste [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+When this creature enters, you may sacrifice a creature. If you do, up to one target creature you control gains haste until end of turn. => Pyre, haste [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+When this creature enters, you may sacrifice a creature. If you do, up to one target creature you control gains haste until end of turn.
+
+Xrk, The Antlered One
+
+Lyth, Kindleborn Phoenix
+rules_text: Flying, kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+When Lyth enters, if you control 3 or more Elementals, draw a card.
+{B}{B}{R}: Return Lyth from the graveyard to the battlefield tapped. => Flying, pyre [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+When Lyth enters, if you control 3 or more Elementals, draw a card.
+{B}{B}{R}: Return Lyth from the graveyard to the battlefield tapped.
+
+Magma Viper
+rules_text: Reach, kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever this creature enters or attacks, create a 1/1 black and red Elemental creature token. => Reach, pyre [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever this creature enters or attacks, create a 1/1 black and red Elemental creature token.
+pt:  => 3/3
+
+Ekthar, Void Phoenix
+rules_text: Flying, kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+When Ekthar enters, if he was cast, he deals damage to target player equal to the number of Elemental cards in your graveyard.
+{1}{B}{R}, Sacrifice two Elementals: Return Ekthar from the graveyard to the battlefield. => Flying, pyre [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+When Ekthar enters, if he was cast, he deals damage to target player equal to the number of Elemental cards in your graveyard.
+{1}{B}{R}, Sacrifice two Elementals: Return Ekthar from the graveyard to the battlefield.
+
+Calm-Shores Passage
+type: Land => Land — Plains Island
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Add {W}{U}. => [i]({T}: Add {W} or {U}.)[/i]
+This land enters tapped.
+{WU}{WU}, {T}, Discard a card or sacrifice this land: Draw a card.
+
+Steady-Climb Passage
+type: Land => Land — Forest Plains
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Add {G}{W}. => [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped.
+{GW}{GW}, {T}, Discard a card or sacrifice this land: Draw a card.
+
+Infernus Passage
+type: Land => Land — Swamp Mountain
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Add {B}{R}. => {T}: Add {B} or {R}.
+This land enters tapped.
+{BR}{BR}, {T}, Discard a card or sacrifice this land: Draw a card.
+
+Cragbrush Passage
+type: Land => Land — Mountain Forest
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Add {R}{G}. => [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped.
+{RG}{RG}, {T}, Discard a card or sacrifice this land: Draw a card.
+
+Misthollow Passage
+type: Land => Land — Island Swamp
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Add {U}{B}. => [i]({T}: Add {U} or {B}.)[/i]
+This land enters tapped.
+{UB}{UB}, {T}, Discard a card or sacrifice this land: Draw a card.
+
+Kindling
+rules_text: Creatures you control have kindled. [i](Whenever you sacrifice a permanent, that creature gets +1/+0 until end of turn. Multiple instances of kindled trigger separately.)[/i] => Creatures you control have pyre. [i](Whenever you sacrifice a permanent, that creature gets +1/+0 until end of turn. Multiple instances of pyre trigger separately.)[/i] [i](Whenever you sacrifice a permanent, that creature gets +1/+0 until end of turn.)[/i]
+
+Ashen Sorceress
+rules_text: Kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever a token you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Pyre [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i]
+Whenever a token you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Ashes_c02_SKL added.
